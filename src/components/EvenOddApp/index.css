@@ -1,0 +1,32 @@
+.body-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.main-bg-container {
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  text-align: center;
+  padding: 25px;
+  border-radius: 15px;
+  margin: 10px;
+}
+.count-heading-style {
+  color: #0f172a;
+}
+.even-odd-style {
+  color: #334155;
+  font-size: 20px;
+}
+.button-style {
+  background-color: white;
+  border: none;
+  padding: 10px 20px 10px 20px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.increase-description-style {
+  font-size: 10px;
+  color: #334155;
+}
